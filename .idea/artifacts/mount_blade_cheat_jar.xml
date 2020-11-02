@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mount&amp;blade_cheat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mount_blade_cheat_jar</output-path>
+    <root id="archive" name="mount&amp;blade_cheat.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="mount&amp;blade_cheat" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jintellitype-1.3.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
